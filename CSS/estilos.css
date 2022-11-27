@@ -83,7 +83,7 @@ header {
   width: 354px;
   height: 508px;
 
-  background-image: url('/assets/bg-explorer.svg');
+  background-image: url('assets/bg-explorer.svg');
 
   cursor: pointer;
 
@@ -179,13 +179,13 @@ header {
 }
 
 .flip-card-front {
-  background-image: url('/assets/bg-ignite.svg');
+  background-image: url('assets/bg-ignite.svg');
   /* background-color: #bbb;
   color: black; */
 }
 
 .flip-card-back {
-  background-image: url('/assets/bg-explorer.svg');
+  background-image: url('assets/bg-explorer.svg');
   /* background-color: #2980b9; */
   color: var(--branco-fonte);
   transform: rotateY(180deg);
